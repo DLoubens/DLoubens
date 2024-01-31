@@ -5,6 +5,7 @@
 - 📫 How to reach me by email "Leedyalogisticsllc@gmail.com or ing.d.loubens@gmail.com"
 - 😄 Pronouns: Loubens D.
 - ⚡ Fun fact: "If Your Dream Doesn't Scrare You, It Isn't Big Enough"
+- <> Language : English , Spanish, French, Haitian Creol 
 
 <!---
 DLoubens/DLoubens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
